@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name" translatable="false">MeuPrimeiroAppDio</string>
+    <string name="main_text" translatable="false">Este é um aplicativo feito para o curso de desenvolvimento Mobile com Kotlin </string>
 </resources>
